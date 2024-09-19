@@ -5,10 +5,6 @@ Entre las posibles mejoras:
 
  - Guardar la información en un archivo externo, tipo .txt o .json.
 
- - Refactorizar el código.
-
- - Ordenar la lista por precios.
-
  - Agregar una captura de la carátula del juego según el nombre.
 
  - Optimizar los tiempos de respuesta (actualmente es de 0.01 segundos por petición para no sobrecargar el servidor con muchas solicitudes).
